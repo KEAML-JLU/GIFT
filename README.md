@@ -7,7 +7,7 @@ python train.py --dataset [dataset]
 ```
 
 ### Related Work
-Our related work can be found here: [MI-DELIGHT](https://github.com/KEAML-JLU/MI-DELIGHT) and [SimSTC](https://github.com/KEAML-JLU/SimSTC)
+Our related work can be found here: [MI-DELIGHT](https://github.com/KEAML-JLU/MI-DELIGHT) and [SimSTC](https://github.com/KEAML-JLU/SimSTC).
 ### Cite
 If you find our work can help your research, please cite our work! <br>
 ```
@@ -18,6 +18,7 @@ If you find our work can help your research, please cite our work! <br>
   year={2024}
 }
 ```
+
 ```
 @inproceedings{liu2025boosting,
   title={Boosting Short Text Classification with Multi-Source Information Exploration and Dual-Level Contrastive Learning},
@@ -36,4 +37,4 @@ If you find our work can help your research, please cite our work! <br>
 ```
 
 ## Contact
-If you have any question, feel free to contact via [email](yonghao20@mails.jlu.edu.cn)
+If you have any question, feel free to contact via [email](yonghao20@mails.jlu.edu.cn).
