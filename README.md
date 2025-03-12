@@ -34,3 +34,6 @@ If you find our work can help your research, please cite our work! <br>
   year={2025}
 }
 ```
+
+## Contact
+If you have any question, feel free to contact via [email](yonghao20@mails.jlu.edu.cn)
