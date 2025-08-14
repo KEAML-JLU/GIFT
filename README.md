@@ -5,6 +5,7 @@ The source code of "Improved Graph Contrastive Learning for Short Text Classific
 ```
 python train.py --dataset [dataset]
 ```
+We provide the `original datasets` used in our work, along with the `preprocess.py` script to convert the raw data into the required target format.
 
 ### Related Work
 Our related work can be found here: [MI-DELIGHT](https://github.com/KEAML-JLU/MI-DELIGHT) and [SimSTC](https://github.com/KEAML-JLU/SimSTC).
